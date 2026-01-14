@@ -1,8 +1,8 @@
-# ABNT IQSC
+# ABNT IQSC 2026
 
 ## Informações gerais
 
-Estilo de formatação de referências criado para se adequar ao formato numérico sobrescrito para elaboração de dissertações e teses do Instituto de Química de São Carlos da Universidade de São Paulo (IQSC/USP). 
+Estilo de formatação de referências criado para se adequar ao formato numérico sobrescrito para elaboração de dissertações e teses do Instituto de Química de São Carlos da Universidade de São Paulo (IQSC/USP) em janeiro de 2026. 
 
 O arquivo CSL foi desenvolvido de forma independente pelo autor. O Instituto de Química de São Carlos (IQSC/USP) não participou do seu desenvolvimento, não o endossa oficialmente e não se responsabiliza por eventuais erros, omissões ou divergências em relação às normas institucionais vigentes.
 
