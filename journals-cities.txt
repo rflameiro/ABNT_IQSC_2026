@@ -1,0 +1,207 @@
+ACS Catalysis;Washington
+ACS Central Science;Washington
+ACS Infectious Diseases;Washington
+ACS Medicinal Chemistry Letters;Washington
+ACS Omega;Washington
+ACS Pharmacology & Translational Science;Washington
+ACS Pharmacology and Translational Science;Washington
+Accounts of Chemical Research;Washington
+Acta Pharmaceutica Sinica B;Beijing
+Acta Tropica;Amsterdam
+Acta crystallographica. Section D, Biological crystallography;Chester
+Advanced Drug Delivery Reviews;Amsterdam
+Alternatives to laboratory animals;London
+American Journal of Tropical Medicine and Hygiene;Arlington
+Amino Acids;Wien*
+Analytical Chemistry;Washington
+Angewandte Chemie;Weinheim
+Angewandte Chemie - International Edition;Weinheim
+Angewandte Chemie International Edition in English;Weinheim
+Annals of Medicine;Abingdon*
+Annual Review of Microbiology;Palo Alto
+Anti-Cancer Agents in Medicinal Chemistry;Sharjah
+Antimicrobial Agents and Chemotherapy;Washington
+Artificial Intelligence in the Life Sciences;Amsterdam
+Arzneimittel-Forschung/Drug Research;Stuttgart
+Asian Journal of Chemistry;Ghaziabad
+Biochemia Medica;Zagreb
+Biochemical Journal;London
+Biochemical Pharmacology;Oxford*
+Biochemistry;Washington
+Bioinformatics;Oxford
+Biomolecular Concepts;Berlin
+Biomolecules;Basel
+Bioorganic and Medicinal Chemistry;Oxford*
+Bioorganic and Medicinal Chemistry Letters;Oxford*
+Bioorganic Chemistry;San Diego*
+BMC Genomics;London
+BMJ Open;London
+Briefings in Bioinformatics;Oxford
+Cell;Cambridge
+Cell and Bioscience;London
+Cell Biochemistry and Biophysics;Totowa*
+Cell Reports Physical Science;Amsterdam*
+Cell Research;London
+Cell Systems;Cambridge
+ChemBioChem;Weinheim
+ChemMedChem;Weinheim
+ChemPhysChem;Weinheim
+Chemical Biology and Drug Design;Hoboken*
+Chemical Research in Toxicology;Washington
+Chemical Reviews;Washington
+Chemical Science;Cambridge*
+Chemical Society Reviews;Cambridge*
+Chemistry & Biology;Cambridge
+ChemistrySelect;Weinheim
+Chemometrics and Intelligent Laboratory Systems;Amsterdam
+Clinical Infectious Diseases;Cary*
+Clinical Pharmacology and Therapeutics;Hoboken
+Communications Chemistry;London*
+Communications Medicine;London
+Comparative Biochemistry and Physiology - A Molecular and Integrative Physiology;New York
+Computational and Structural Biotechnology Journal;Amsterdam
+Computers and Chemistry;Amsterdam
+Computers in Biology and Medicine;Oxford*
+Current Computer Aided-Drug Design;Sharjah
+Current Medicinal Chemistry;Sharjah
+Current Opinion in Biotechnology;London*
+Current Opinion in Chemical Biology;Oxford*
+Current Opinion in Structural Biology;London*
+Current Pharmaceutical Design;Sharjah
+Current Protein & Peptide Science;Sharjah
+Current Topics in Medicinal Chemistry;Sharjah
+Digital Discovery;London
+Drug Development Research;Hoboken
+Drug Discovery Today;Oxford*
+Drug Discovery Today: Technologies;Amsterdam
+Drug Metabolism and Disposition;Bethesda
+Environmental Health Perspectives;Research Triangle Park
+European Journal of Biochemistry;Oxford
+European Journal of Medicinal Chemistry;Paris*
+Experimental Parasitology;San Diego*
+Expert Opinion on Drug Discovery;Abingdon*
+Expert Opinion on Therapeutic Patents;Abingdon*
+Expert Opinion on Therapeutic Targets;Abingdon*
+Expert Review of Anti-Infective Therapy;Abingdon*
+Expert Reviews in Molecular Medicine;New York*
+F1000Research;London
+FEMS Microbiology Letters;Oxford
+Faraday Discussions;Cambridge
+Frontiers in Artificial Intelligence;Lausanne
+Frontiers in Chemistry;Lausanne
+Frontiers in Pharmacology;Lausanne
+Future Medicinal Chemistry;London
+Future Science OA;London
+Global Heart;London
+IBM Journal of Research and Development;Armonk
+IEEE Transactions on Neural Networks;Piscataway
+Infectious Disease Clinics of North America;Philadelphia
+Interdisciplinary Sciences: Computational Life Sciences;Heidelberg*
+International Journal for Parasitology: Drugs and Drug Resistance;Oxford*
+International Journal of Antimicrobial Agents;Amsterdam
+International Journal of Molecular Sciences;Basel
+International Journal of Quantitative Structure-Property Relationships;Hershey
+Journal of Antimicrobial Chemotherapy;Oxford
+Journal of Applied Crystallography;Chester
+Journal of Biomolecular Screening;Thousand Oaks
+Journal of Biomolecular Structure and Dynamics;Philadelphia*
+Journal of Cell Science;Cambridge
+Journal of Chemical Information and Computer Sciences;Washington
+Journal of Chemical Information and Modeling;Washington
+Journal of Chemical Theory and Computation;Washington
+Journal of Cheminformatics;London
+Journal of Clinical and Translational Hepatology;Sugar Land*
+Journal of Computational Chemistry;Hoboken
+Journal of Computer-Aided Molecular Design;Dordrecht
+Journal of Experimental Medicine;New York
+Journal of Infectious Diseases;Cary*
+Journal of Machine Learning Research;Brookline*
+Journal of Mathematical Chemistry;New York
+Journal of Medicinal Chemistry;Washington
+Journal of Molecular Graphics;New York
+Journal of Molecular Graphics and Modelling;New York
+Journal of Organic Chemistry;Washington
+Journal of Pharmaceutical Sciences;New York
+Journal of Pharmacy and Pharmacology;Oxford*
+Journal of Physical Chemistry A;Washington
+Journal of Physical Chemistry B;Washington
+Journal of Theoretical and Computational Chemistry;Singapore
+Journal of the American Chemical Society;Washington
+Journal of the American College of Cardiology;New York
+Journal of the Brazilian Chemical Society;São Paulo
+Letters in Drug Design & Discovery;Sharjah
+Life;Basel
+MATEC Web of Conferences;Les Ulis
+Machine Learning;Dordrecht*
+Machine Learning: Science and Technology;Bristol
+Mathematics of Operations Research;Catonsville
+MedChemComm;London*
+Medicinal Chemistry Research;New York
+Medicinal Research Reviews;Hoboken
+Memórias do Instituto Oswaldo Cruz;Rio de Janeiro
+Microbes and Infection;Amsterdam
+Molecular Informatics;Weinheim
+Molecular Pharmaceutics;Washington
+Molecular and Biochemical Parasitology;Amsterdam
+Molecules;Basel
+Nature;London
+Nature Biotechnology;London
+Nature Chemical Biology;London
+Nature Chemistry;London
+Nature Communications;London
+Nature Machine Intelligence;London
+Nature Methods;London
+Nature Protocols;London
+Nature Reviews Cancer;London
+Nature Reviews Chemistry;London
+Nature Reviews Drug Discovery;London
+Nature Reviews Methods Primers;London
+Nature Reviews Microbiology;London
+Nauchno-Technicheskaya Informatsia;Moscow
+Neural Regeneration Research;Mumbai*
+New England Journal of Medicine;Waltham*
+Nucleic Acids Research;Oxford
+Organic Letters;Washington
+Parasitology;New York
+Pathogens;Basel
+Patterns;Amsterdam*
+Pharmaceutical Research;New York
+Pharmaceuticals;Basel
+Pharmacology and Therapeutics;Oxford*
+Physical Chemistry Chemical Physics;Cambridge*
+PLoS Computational Biology;San Francisco
+PLoS Neglected Tropical Diseases;San Francisco
+PLoS ONE;San Francisco
+PLoS Pathogens;San Francisco
+Proceedings of the National Academy of Sciences;Washington
+Progress in Medicinal Chemistry;Amsterdam
+Protein Science;Hoboken
+Quantitative Structure-Activity Relationships;Weinheim*
+Quimica Nova;São Paulo
+Revista da Sociedade Brasileira de Medicina Tropical;Brasília*
+Revista do Instituto de Medicina Tropical de São Paulo;São Paulo
+Revista Virtual de Quimica;São Paulo
+RSC Advances;Cambridge*
+RSC Medicinal Chemistry;Cambridge*
+SAR and QSAR in Environmental Research;Abingdon*
+Science;Washington
+Science Advances;Washington
+Science Translational Medicine;Washington
+Science of the Total Environment;Amsterdam
+Scientific Reports;London
+Signal Transduction and Targeted Therapy;London
+Statistical Science;Cleveland
+Structure;Cambridge
+Tetrahedron Letters;Oxford*
+The Bulletin of Mathematical Biophysics;Chicago*
+The Journal of Chemical Physics;Melville
+The Journal of Infectious Diseases;Cary*
+The Lancet;New York*
+The Lancet Digital Health;Amsterdam
+The Lancet Haematology;Oxford*
+The Lancet Infectious Diseases;Oxford*
+Toxicology in Vitro;Oxford*
+Trends in Pharmacological Sciences;London*
+Tropical Medicine and Infectious Disease;Basel
+Wiley Interdisciplinary Reviews: Computational Molecular Science;Hoboken
+Wireless Communications and Mobile Computing;London*
