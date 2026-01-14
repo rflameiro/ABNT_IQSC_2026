@@ -28,7 +28,7 @@ Para correta formatação de sobrenomes com partículas, não os separe quando s
 
 # Tipos de referências formatadas corretamente pelo arquivo CSL
 
-## Artigos científicos
+## Artigo científico
 
 Como salvar no Mendeley: Formato *Journal Article*. 
 
@@ -42,7 +42,7 @@ ABNT: SOBRENOME, INICIAIS. Título. **Revista**, Volume, Número, Páginas, Ano.
 
 Exemplo: YOUNG, S. S.; YUAN, F.; ZHU, M. Chemical descriptors are more important than learning algorithms for modelling. **Molecular Informatics**, v. 31, n. 10, p. 707–710, 2012. 
 
-## Preprints
+## Preprint
 
 Como salvar no Mendeley: Formato *Web Page*.
 
@@ -98,7 +98,7 @@ Exemplo (com cidade): DRUGS FOR NEGLECTED DISEASES INITIATIVE. **Doença de Chag
 
 # Tipos de referências não salvos corretamente
 
-## Patentes
+## Patente
 
 Como salvar no Mendeley: Formato *Patent*.
 
@@ -108,7 +108,7 @@ ABNT: SOBRENOME, INICIAIS. **Título da patente**. Depositante: XXXX; YYYY. Núm
 
 ABNT (patente disponível na internet): SOBRENOME, INICIAIS. **Título da patente** Depositante: XXXX; YYYY. Número da patente. Depósito:  dia, mês abreviado. ano. Concessão:  dia, mês abreviado. ano. Disponível em: URL completa. Acesso em: dia, mês abreviado. ano.
 
-## Programas de computador
+## Programa de computador
 
 Como salvar no Mendeley: Formato *Computer Program*. 
 
