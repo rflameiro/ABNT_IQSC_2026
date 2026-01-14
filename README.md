@@ -12,9 +12,9 @@ Adaptado de https://github.com/citation-style-language/styles/blob/master/associ
 
 # O arquivo .csl
 
-Arquivos CSL (Citation Style Language) são arquivos em formato XML que definem como citações e referências bibliográficas devem aparecer em um texto acadêmico. O único arquivo que você precisará baixar é o `ABNT_IQSC_numerado_2026.csl`.
+Arquivos CSL (Citation Style Language) são arquivos em formato XML que definem como citações e referências bibliográficas devem aparecer em um texto acadêmico. O único arquivo que você precisará baixar é o `ABNT_IQSC_numerico_2026.csl`.
 
-Após baixar o arquivo, é preciso adicioná-lo ao Mendeley. Para isso, abra o Mendeley Desktop e acesse "View > Citation Styles > More Styles...". Depois, com a aba "Installed" selecionada,  arraste o arquivo `ABNT_IQSC_numerado_2026.csl` para a lista de estilos disponíveis. No campo "Citation and Bibliography Language" defina o idioma como "Portuguese (Brazil)" e clique em "Done". A opção já estará disponível no *plugin* do Word (pode ser necessário reiniciar o Word).
+Após baixar o arquivo, é preciso adicioná-lo ao Mendeley. Para isso, abra o Mendeley Desktop e acesse "View > Citation Styles > More Styles...". Depois, com a aba "Installed" selecionada,  arraste o arquivo `ABNT_IQSC_numerico_2026.csl` para a lista de estilos disponíveis. No campo "Citation and Bibliography Language" defina o idioma como "Portuguese (Brazil)" e clique em "Done". A opção já estará disponível no *plugin* do Word (pode ser necessário reiniciar o Word).
 
 # Mendeley
 
