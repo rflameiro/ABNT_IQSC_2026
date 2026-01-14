@@ -52,7 +52,23 @@ ABNT: SOBRENOME, INICIAIS. Título. **Repositório**, Ano. [Preprint]. Disponív
 
 Exemplo: LUNDBERG, S. M.; LEE, S. I. A unified approach to interpreting model predictions. **arXiv**, 2017. [Preprint]. Disponível em: https://arxiv.org/abs/1705.07874. Acesso em: 21 abr. 2022.
 
-## TCC, Dissertação, Tese
+## Livro
+
+Como salvar no Mendeley: Formato *Book*. 
+
+ABNT: SOBRENOME, INICIAIS. **Título**. xxx. ed. Cidade: Editora, Ano. xxx p.
+
+Exemplo: HASTIE, T.; TIBSHIRANI, R.; FRIEDMAN, J. The elements of statistical learning. 2. ed. New York, NY, USA: Springer New York Inc., 2009.
+
+## Capítulo de livro
+
+Como salvar no Mendeley: Formato *Book Section*. 
+
+ABNT: SOBRENOME, INICIAIS. Título do capítulo. *In:* **Título do livro**. xxx. ed. Cidade: Editora, Ano. p. xxx-yyy.
+
+Exemplo: DE SOUSA, J. M. A. **Processing of SMILES, InChI, and Hashed Fingerprints**. *In:* Tutorials in Chemoinformatics. 1. ed. Oxford: John Wiley & Sons Ltd, 2017. p. 75–81.
+
+## TCC, dissertação, tese
 
 Como salvar no Mendeley: Formato *Thesis*. 
 
@@ -78,11 +94,21 @@ Exemplo (sem cidade): LANDRUM, G. **The RDKit Book**. RDKit, [s. l.], 2024. Disp
 
 Exemplo (com cidade): DRUGS FOR NEGLECTED DISEASES INITIATIVE. **Doença de Chagas: chegou o momento de acabar com 110 anos de invisibilidade**. DNDI, Genebra, 2019. Disponível em: https://www.dndial.org/2019/comunicacao-e-informacao/press-releases/doenca-de-chagas-chegou-o-momento-de-acabar-com-110-anos-de-invisibilidade/. Acesso em: 8 maio 2019.
 
+# Tipos de referências não salvos corretamente
+
+## Patentes
+
+Como salvar no Mendeley: Formato *Patent*.
+
+O Mendeley não fornece os campos necessários para formatar a patente de acordo com a ABNT, sendo necessário modificar manualmente as referências.
+
+ABNT: SOBRENOME, INICIAIS. **Título da patente**. Depositante: XXXX; YYYY. Número da patente. Depósito:  dia, mês abreviado. ano. Concessão:  dia, mês abreviado. ano.
+
+ABNT (patente disponível na internet): SOBRENOME, INICIAIS. **Título da patente** Depositante: XXXX; YYYY. Número da patente. Depósito:  dia, mês abreviado. ano. Concessão:  dia, mês abreviado. ano. Disponível em: URL completa. Acesso em: dia, mês abreviado. ano.
+
 ## Programas de computador
 
 Como salvar no Mendeley: Formato *Computer Program*. 
-
-Instruções:
 
 O Mendeley não exporta referências a "Computer Program" como deveria (software), mas sim como um arquivo genérico. Não encontrei uma forma de criar um estilo específico para esse caso, então deixei a formatação genérica no formato adequado para programas de computador.
 
@@ -96,6 +122,6 @@ Exemplo (com local e empresa): TICKLE, I. J.; FLENSBURG, C.; KELLER, P.; PACIORE
 
 Para outros tipos de documentos há uma formatação genérica, mas você também pode modificar o artigo `.csl`, ou modificar manualmente a referência genérica gerada.
 
-## Sugestões e dúvidas
+# Sugestões e dúvidas
 
-Usar a aba *Issues* do repositório.
+Use a aba *Issues* do repositório.
