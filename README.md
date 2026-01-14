@@ -24,6 +24,8 @@ O Mendeley apresenta diversas categorias de arquivos nas quais podemos salvar no
 
 Para salvar referências no Mendeley sugiro usar arquivos `.ris` ou `.bib`, que contêm as informações em uma forma facilmente interpretada. Se você usar arquivos PDF diretamente, o Mendeley pode gerar referências erradas. Outra sugestão é salvar as referências com apenas a primeira letra capitalizada (além de nomes próprios, de espécies, etc.), pois é assim que elas são formatadas pela biblioteca.
 
+Para correta formatação de sobrenomes com partículas, não os separe quando salvar a referência. Ex: "L. Van Der Pijl" deve ser salvo como "Van Der Pijl, L." e não como "Pijl, L. Van Der".
+
 # Tipos de referências formatadas corretamente pelo arquivo CSL
 
 ## Artigos científicos
