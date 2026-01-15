@@ -96,7 +96,7 @@ Exemplo (sem cidade): LANDRUM, G. **The RDKit Book**. RDKit, [s. l.], 2024. Disp
 
 Exemplo (com cidade): DRUGS FOR NEGLECTED DISEASES INITIATIVE. **Doença de Chagas: chegou o momento de acabar com 110 anos de invisibilidade**. DNDI, Genebra, 2019. Disponível em: https://www.dndial.org/2019/comunicacao-e-informacao/press-releases/doenca-de-chagas-chegou-o-momento-de-acabar-com-110-anos-de-invisibilidade/. Acesso em: 8 maio 2019.
 
-# Tipos de referências não salvos corretamente
+# Tipos de referências não salvas corretamente
 
 ## Patente
 
